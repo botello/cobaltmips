@@ -1,0 +1,1 @@
+Basic MIPS processor based in Patterson design implementing Tomasulo's architecture. Some features include: pipelined, superscalar, out of order execution, etc.
